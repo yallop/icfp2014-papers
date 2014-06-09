@@ -68,7 +68,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Olle Fredriksson and Dan R. Ghica
 
 * **Practical and Effective Higher-Order Optimizations**  
-    ([paper](http://people.cs.uchicago.edu/~jhr/papers/2014/icfp-reflow.pdf))  
+    ([paper](https://dl.dropboxusercontent.com/u/1620890/website/writings/ho-optimization.pdf))  
     by Lars Bergstrom, Matthew Fluet, John Reppy, Nora Sandler and Matthew Le
 
 * **Distilling Abstract Machines**  
