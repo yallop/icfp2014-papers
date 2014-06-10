@@ -38,7 +38,8 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Dominic P. Mulligan, Scott Owens, Kathryn E. Gray, Tom Ridge and Peter Sewell
 
 * **There is no Fork: an Abstraction for Efficient, Concurrent, and Concise Data Access**  
-    by Simon Marlow, Louis Brandy, Jonathan Coens and Jon Purdy
+    ([paper](http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf)) ([source](https://github.com/facebook/Haxl))  
+    by Simon Marlow, Louis Brandy, Jonathan Coens and Jon Purdy  
 
 * **Hindley-Milner elaboration in applicative style**  
     ([paper](http://gallium.inria.fr/~fpottier/publis/fpottier-elaboration.pdf))  
