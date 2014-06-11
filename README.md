@@ -63,6 +63,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Yan Chen, Umut A. Acar and Kanat Tangwongsan
 
 * **SeLINQ: Tracking Information Across Application-Database Boundaries**  
+    ([paper](http://www.cse.chalmers.se/~andrei/icfp14.pdf))  
     by Daniel Schoepe, Andrei Sabelfeld and Daniel Hedin
 
 * **Krivine Nets**  
