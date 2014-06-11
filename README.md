@@ -111,4 +111,5 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Conor McBride
 
 * **SML# in Industry: A Practical ERP System Development**  
+    ([paper](http://www.pllab.riec.tohoku.ac.jp/papers/icfp2014OhoriEtAl.pdf))  
     by Atsushi Ohori, Katsuhiro Ueno, Kazunori Hoshi, Shinji Nozaki, Takashi Sato, Tasuku Makabe and Yuki Ito
