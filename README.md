@@ -34,7 +34,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Jennifer Hackett and Graham Hutton
 
 * **Lem: reusable engineering of real-world semantics**  
-    ([paper](http://www.cl.cam.ac.uk/~pes20/lem/built-doc/lem-draft.pdf))  
+    ([paper](http://www.cl.cam.ac.uk/~pes20/lem/built-doc/lem-icfp-2014.pdf))  
     by Dominic P. Mulligan, Scott Owens, Kathryn E. Gray, Tom Ridge and Peter Sewell
 
 * **There is no Fork: an Abstraction for Efficient, Concurrent, and Concise Data Access**  
