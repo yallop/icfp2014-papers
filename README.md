@@ -94,6 +94,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Carlo Angiuli, Ed Morehouse, Daniel Licata and Robert Harper
 
 * **A Relational Framework for Higher-Order Shape Analysis**  
+    ([paper](http://gowthamk.github.io/docs/icfp2014.pdf))
     ([tech report](http://tycon.github.io/catalyst/techrep.pdf))  
     by Gowtham Kaki and Suresh Jagannathan
 
