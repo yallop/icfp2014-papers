@@ -67,6 +67,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Daniel Schoepe, Andrei Sabelfeld and Daniel Hedin
 
 * **Krivine Nets**  
+    ([paper](http://www.cs.bham.ac.uk/~ohf162/icfp14.pdf))  
     by Olle Fredriksson and Dan R. Ghica
 
 * **Practical and Effective Higher-Order Optimizations**  
