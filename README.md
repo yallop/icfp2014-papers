@@ -98,6 +98,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Gowtham Kaki and Suresh Jagannathan
 
 * **Coeffects: A calculus of context-dependent computation**  
+    ([paper](http://tomasp.net/academic/papers/structural/coeffects-icfp.pdf))  
     by Tomas Petricek, Dominic Orchard and Alan Mycroft
 
 * **Refinement Types For Haskell**  
