@@ -60,6 +60,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Felipe Bañados Schwerter, Ronald Garcia and Éric Tanter
 
 * **Functional Programming for Dynamic and Large Data with Self-Adjusting Computation**  
+    ([paper](http://www.umut-acar.org/publications/icfp2014.pdf))  
     by Yan Chen, Umut A. Acar and Kanat Tangwongsan
 
 * **SeLINQ: Tracking Information Across Application-Database Boundaries**  
