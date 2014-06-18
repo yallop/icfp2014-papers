@@ -109,6 +109,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Niki Vazou, Eric L. Seidel, Ranjit Jhala, Dimitrios Vytiniotis and Simon Peyton-Jones
 
 * **Romeo: a system for more flexible binding-safe programming**  
+    ([paper](http://www.ccs.neu.edu/research/prl/static-pauls/romeo.pdf))  
     by Paul Stansifer and Mitchell Wand
 
 * **How to Keep Your Neighbours in Order**  
