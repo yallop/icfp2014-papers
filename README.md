@@ -57,6 +57,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Clemens Grabmayer and Jan Rochel
 
 * **A Theory of Gradual Effect Systems**  
+    ([paper](http://pleiad.dcc.uchile.cl/papers/2014/banadosAl-icfp2014.pdf))  
     by Felipe Bañados Schwerter, Ronald Garcia and Éric Tanter
 
 * **Functional Programming for Dynamic and Large Data with Self-Adjusting Computation**  
