@@ -1,12 +1,13 @@
-Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN International Conference on Functional Programming][icfp14] (ICFP 2014)
+Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN International Conference on Functional Programming][icfp14] (ICFP 2014).
 
 [icfp14]: http://icfpconference.org/icfp2014/
 [icfp14-accepted]: http://icfpconference.org/icfp2014/accepted.html
 
-(Similar pages are available for [ICFP 2012][icfp12] and [ICFP 2013][icfp13].)
+(Similar pages are available for [ICFP 2012][icfp12] and [ICFP 2013][icfp13].  You may also be interested in [Haskell 2014 accepted papers][haskell2014-accepted].)
 
 [icfp12]: https://github.com/technogeeky/icfp12-paper-links
 [icfp13]: https://github.com/gasche/icfp2013-papers
+[haskell2014-accepted]: https://github.com/yallop/haskell2014-papers
 
 ## ICFP
 
