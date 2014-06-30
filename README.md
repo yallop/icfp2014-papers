@@ -24,6 +24,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Jesper Cockx, Dominique Devriese and Frank Piessens
 
 * **Settable and Non-Interfering Signal Functions for FRP**  
+    ([paper](http://haskell.cs.yale.edu/wp-content/uploads/2014/06/winograd-cort_settability_and_ni-choice.pdf))  
     by Daniel Winograd-Cort and Paul Hudak
 
 * **Safe Zero-cost Coercions for Haskell**  
