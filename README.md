@@ -95,7 +95,7 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
     by Cole Schlesinger, Michael Greenberg and David Walker
 
 * **Homotopical Patch Theory**  
-    ([paper](http://www.cs.cmu.edu/~rwh/papers/htpt/paper.pdf))  
+    ([paper](http://www.cs.cmu.edu/~rwh/papers/htpt/paper.pdf)) ([expanded version](http://www.cs.cmu.edu/~rwh/papers/htpt/expanded.pdf))  
     by Carlo Angiuli, Ed Morehouse, Daniel Licata and Robert Harper
 
 * **A Relational Framework for Higher-Order Shape Analysis**  
