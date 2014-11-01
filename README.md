@@ -5,6 +5,8 @@ Links to [accepted papers][icfp14-accepted] for the [19th ACM SIGPLAN Internatio
 
 (Similar pages are available for [ICFP 2012][icfp12] and [ICFP 2013][icfp13].  You may also be interested in [Haskell 2014 accepted papers][haskell2014-accepted] and [PLDI 2014 accepted papers][pldi2014-accepted].)
 
+Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/icfp2014-papers.svg)](https://travis-ci.org/yallop/icfp2014-papers)
+
 [icfp12]: https://github.com/technogeeky/icfp12-paper-links
 [icfp13]: https://github.com/gasche/icfp2013-papers
 [haskell2014-accepted]: https://github.com/yallop/haskell2014-papers
