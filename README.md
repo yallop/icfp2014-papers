@@ -30,7 +30,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/ic
     by Jesper Cockx, Dominique Devriese and Frank Piessens
 
 * **Settable and Non-Interfering Signal Functions for FRP**  
-    ([paper](http://haskell.cs.yale.edu/wp-content/uploads/2014/06/winograd-cort_settability_and_ni-choice.pdf))
+    ([paper](http://haskell.cs.yale.edu/wp-content/uploads/2014/09/nichoiceICFP2014.pdf)
     ([video of talk](https://www.youtube.com/watch?v=zgNRM8tZguY))  
     by Daniel Winograd-Cort and Paul Hudak
 
