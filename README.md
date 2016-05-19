@@ -113,7 +113,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/ic
     by Phuc Nguyen, Sam Tobin-Hochstadt and David Van Horn
 
 * **Concurrent NetCore: From Policies to Pipelines**  
-    ([paper](http://www.cis.upenn.edu/~mgree/papers/icfp2014sub_cnc.pdf))
+    ([paper](https://www.cs.princeton.edu/~dpw/papers/icfp2014sub_cnc.pdf))
     ([video of talk](https://www.youtube.com/watch?v=f8Ni_D_lNHU))  
     by Cole Schlesinger, Michael Greenberg and David Walker
 
@@ -139,7 +139,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/ic
     by Niki Vazou, Eric L. Seidel, Ranjit Jhala, Dimitrios Vytiniotis and Simon Peyton-Jones
 
 * **Romeo: a system for more flexible binding-safe programming**  
-    ([paper](http://www.ccs.neu.edu/research/prl/static-pauls/romeo.pdf))
+    ([paper](https://repository.library.northeastern.edu/downloads/neu:344554?datastream_id%3Dcontent))
     ([video of talk](https://www.youtube.com/watch?v=k9W7_Vjyz4g))  
     by Paul Stansifer and Mitchell Wand
 
